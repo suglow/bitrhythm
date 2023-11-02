@@ -1,8 +1,8 @@
 +++
-title = 'My First Post'
+title = '开篇'
 date = 2023-11-02T01:15:28Z
 +++
 
-A Blog of my study
+A blog of a growing monkey and his family
 
 
